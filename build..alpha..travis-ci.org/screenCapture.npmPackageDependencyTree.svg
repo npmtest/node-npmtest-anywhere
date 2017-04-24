@@ -1,0 +1,37 @@
+<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="542" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ anywhere@1.4.0 </tspan>
+<tspan x="10" y="90">  ├─┬ connect@3.1.1 </tspan>
+<tspan x="10" y="106">  │ ├─┬ debug@1.0.4 </tspan>
+<tspan x="10" y="122">  │ │ └── ms@0.6.2 </tspan>
+<tspan x="10" y="138">  │ ├─┬ finalhandler@0.1.0 </tspan>
+<tspan x="10" y="154">  │ │ └── debug@1.0.4 </tspan>
+<tspan x="10" y="170">  │ ├── parseurl@1.3.1 </tspan>
+<tspan x="10" y="186">  │ └── utils-merge@1.0.0 </tspan>
+<tspan x="10" y="202">  ├── connect-history-api-fallback@1.3.0 </tspan>
+<tspan x="10" y="218">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="234">  │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="250">  ├── minimist@0.1.0 </tspan>
+<tspan x="10" y="266">  ├─┬ serve-index@1.2.0 </tspan>
+<tspan x="10" y="282">  │ ├─┬ accepts@1.0.7 </tspan>
+<tspan x="10" y="298">  │ │ ├── mime-types@1.0.2 </tspan>
+<tspan x="10" y="314">  │ │ └── negotiator@0.4.7 </tspan>
+<tspan x="10" y="330">  │ ├── batch@0.5.1 </tspan>
+<tspan x="10" y="346">  │ └── debug@1.0.4 </tspan>
+<tspan x="10" y="362">  └─┬ serve-static@1.5.3 </tspan>
+<tspan x="10" y="378">    ├── escape-html@1.0.1 </tspan>
+<tspan x="10" y="394">    └─┬ send@0.8.3 </tspan>
+<tspan x="10" y="410">      ├── debug@1.0.4 </tspan>
+<tspan x="10" y="426">      ├── depd@0.4.4 </tspan>
+<tspan x="10" y="442">      ├── destroy@1.0.3 </tspan>
+<tspan x="10" y="458">      ├── fresh@0.2.2 </tspan>
+<tspan x="10" y="474">      ├── mime@1.2.11 </tspan>
+<tspan x="10" y="490">      ├─┬ on-finished@2.1.0 </tspan>
+<tspan x="10" y="506">      │ └── ee-first@1.0.5 </tspan>
+<tspan x="10" y="522">      └── range-parser@1.0.3</tspan>
+</text>
+</svg>
