@@ -35,20 +35,15 @@
 ```json
 
 {
-    "name": "anywhere",
-    "version": "1.4.0",
-    "description": "Run static file server anywhere",
+    "author": {
+        "name": "Jackson Tian"
+    },
     "bin": {
         "anywhere": "./bin/anywhere"
     },
-    "keywords": [
-        "Static",
-        "file",
-        "server",
-        "Assets"
-    ],
-    "author": "Jackson Tian",
-    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JacksonTian/anywhere/issues"
+    },
     "dependencies": {
         "connect": "3.1.1",
         "connect-history-api-fallback": "^1.2.0",
@@ -57,14 +52,35 @@
         "serve-index": "1.2.0",
         "serve-static": "1.5.3"
     },
+    "description": "Run static file server anywhere",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "e96e434d0c476b82e1c604765a81d900a276b311",
+        "tarball": "https://registry.npmjs.org/anywhere/-/anywhere-1.4.0.tgz"
+    },
+    "gitHead": "57b5deb08ed50b73277d5074465035cc04a8291b",
+    "homepage": "https://github.com/JacksonTian/anywhere",
+    "keywords": [
+        "Static",
+        "file",
+        "server",
+        "Assets"
+    ],
+    "license": "MIT",
+    "maintainers": [
+        {
+            "name": "jacksontian"
+        }
+    ],
+    "name": "anywhere",
+    "optionalDependencies": {},
     "repository": {
         "type": "git",
         "url": "git://github.com/JacksonTian/anywhere.git"
     },
-    "bugs": {
-        "url": "https://github.com/JacksonTian/anywhere/issues"
-    },
-    "homepage": "https://github.com/JacksonTian/anywhere"
+    "scripts": {},
+    "version": "1.4.0"
 }
 ```
 
